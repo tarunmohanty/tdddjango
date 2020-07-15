@@ -1,11 +1,15 @@
-1594766794906	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tarun\\AppData\\Local\\Temp\\rust_mozprofileXSiSTq"
+1594791905469	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tarun\\AppData\\Local\\Temp\\rust_mozprofileB37QRp"
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
-console.error: Region.jsm: "Failed to fetch region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
-1594766802351	Marionette	INFO	Listening on port 52437
-1594766802505	Marionette	WARN	TLS certificate errors will be ignored for this session
-1594766803955	Marionette	INFO	Stopped listening on port 52437
+1594791909113	Marionette	INFO	Listening on port 54689
+1594791909592	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594791910080	Marionette	INFO	Stopped listening on port 54689
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+r: cannot send/recv
 
 l be lost
 
